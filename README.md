@@ -8,5 +8,5 @@ It is a demo of leveraging LSTM model to do sentiment analysis on news headlines
 3. Embedded word2vec in LSTM model to predict the sentiment of a news headline
 
 ## Two Demos:
-1. Train and test the algorithm on online shopping evaluations and achieve a % accuracy rate
-2. Train and test the model on all the headlines we have to do prediction, where the accuracy rate reaches
+1. Train and test the algorithm on online shopping evaluations
+2. Train and test the model on all the headlines we have to do prediction, where the accuracy rate reaches 81.8%
