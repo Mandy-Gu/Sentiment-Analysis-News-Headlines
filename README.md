@@ -9,4 +9,4 @@ It is a demo of leveraging LSTM model to do sentiment analysis on news headlines
 
 ## Two Demos:
 1. Train and test the algorithm on online shopping evaluations
-2. Train and test the model on all the headlines we have to do prediction, where the accuracy rate reaches 81.8%
+2. Train and test the model on all the headlines we have to do prediction, where the accuracy rate reaches **81.8%**
